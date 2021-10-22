@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+    
+}
+#container{
+ display: flex;
+}
+
+#container a{
+    text-decoration: none;
+}
+.cont-1{
+    flex: 1;
+    color: grey;
+    font-weight: 900;
+    margin-top: 10px;
+    
+}
+.cont-2{
+    padding: 15px;
+    text-align: center;  
+    background:#ff2e2e;
+    border-radius: 23px;
+    color: white;   
+}
+span{
+    color:grey;
+}
+.img1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+.fart{
+    display: flex;
+    border-radius: 25px;
+    background:rgb(231, 228, 228);
+    width: 40%;
+    margin: 15px auto;
+    padding: 3px;
+}
+.fart-1{
+    display: flex;
+    border-radius: 25px;
+    background:rgb(231, 228, 228);
+    width: 52%;
+    margin: 15px auto;
+    padding: 3px;
+}
+.fart-2{
+    display: flex;
+    border-radius: 25px;
+    background:rgb(231, 228, 228);
+    width: 32%;
+    margin: 15px auto;
+    padding: 3px;
+}
+.fart-3{
+    display: flex;
+    border-radius: 25px;
+    background:rgb(231, 228, 228);
+    width: 55%;
+    margin: 15px auto;
+    padding: 3px;
+}
+.fart-4{
+    display: flex;
+    border-radius: 25px;
+    background:rgb(231, 228, 228);
+    width: 30%;
+    margin: 15px auto;
+    padding: 3px;
+}
+.fart-5{
+    display: flex;
+    border-radius: 25px;
+    background:rgb(231, 228, 228);
+    width: 65%;
+    margin: 15px auto;
+    padding: 3px;
+}
+.fart-6{
+    display: flex;
+    border-radius: 25px;
+    background:rgb(231, 228, 228);
+    width: 50%;
+    margin: 15px auto;
+    padding: 3px;
+}
+p{
+    margin-top: 14px;
+    margin-left: 10px;
+    font-weight: 700;
+}
